@@ -104,5 +104,5 @@ def commence():
 			system('clear')
 	
 
-commence()
+#commence()
 
