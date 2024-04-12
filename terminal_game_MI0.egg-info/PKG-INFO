@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: terminal_game_MI0
+Version: 0.0.1
+Summary: Terminal-scape is a terminal-based game that engages programmers or any command line user during leisure time.
+Home-page: https://github.com/ImaledoShalom101/Terminal-scape
+Author: Imaledo David
+Author-email: shalomimaledo@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
