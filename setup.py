@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
   name="terminal_game_MI0",
-  version="0.0.1",
+  version="1.0.3",
   description="Terminal-scape is a terminal-based game.",
   long_description="Terminal-scape is a terminal-based game that engages programmers or any command line user during leisure time.",
   long_description_content_type="text/markdown",
@@ -16,9 +16,9 @@ setup(
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
   ],
-  entry_points={  # Optional, define executable entry points (if applicable)
+  entry_points={
     'console_scripts': [
-      'tgmi = terminal_game_MI0.Terminal_game:commence',
+      'tgmi = terminal-scape.Terminal_game:commence',
     ]
   },
 )
