@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
   name="terminalscape",
-  version="1.0.4",
+  version="1.0.5",
   description="Terminal-scape is a terminal-based game.",
   long_description="Terminal-scape is a terminal-based game that engages programmers or any command line user during leisure time.",
   long_description_content_type="text/markdown",
