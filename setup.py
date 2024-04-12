@@ -18,7 +18,7 @@ setup(
   ],
   entry_points={
     'console_scripts': [
-      'tgmi = terminalscape.src.Terminal_game:commence',
+      'tgmi = src.Terminal_game:commence',
     ]
   },
 )
