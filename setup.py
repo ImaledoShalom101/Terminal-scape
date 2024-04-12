@@ -5,7 +5,7 @@ setup(
   version="0.0.1",
   description="Terminal-scape is a terminal-based game.",
   long_description="Terminal-scape is a terminal-based game that engages programmers or any command line user during leisure time.",
-  long_description_content_type="**Terminal-scape** is a terminal-based game.",
+  long_description_content_type="text/markdown",
   url="https://github.com/ImaledoShalom101/Terminal-scape",
   author="Imaledo David",
   author_email="shalomimaledo@gmail.com",
