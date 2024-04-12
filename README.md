@@ -32,7 +32,7 @@ tgmi
 - [ ] Counts
 
 ## Contributions
-The project and I are totally open for contributions and bug fixes! 🤗
+The project is totally open for contributions and bug fixes! 🤗
 Create a pull request [in the repo.](https://github.com/ImaledoShalom101/Terminal-scape)
 
 Would you like to see a new feature or report a bug? Be sure to open an issue [here.](https://github.com/ImaledoShalom101/Terminal-scape/issues).
