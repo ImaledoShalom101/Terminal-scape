@@ -1,4 +1,4 @@
-from os import system
+from os import system, get_terminal_size
 import time
 import random as rn
 
@@ -7,7 +7,7 @@ def commence():
 	dino = " "*10 + "(⁠☞⁠ ⁠ಠ⁠_⁠ಠ⁠)⁠☞"
 	dino_space = "                   "
 	obst_up = "  "*20
-	road = "\n" + ground*60
+	road = "\n" + ground*(get_terminal_size()[0])
 	move_obst = False
 	jump = False
 	switch = False
