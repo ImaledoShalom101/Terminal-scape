@@ -5,7 +5,7 @@ Welcome to the the repo of the top exciting terminal-based game!
 
 There are so many super backend modules out there that can retrieve big data, perform complex calculations, and even finally get you a date. 😜
 
-How many modules can get your mind off code bugs during your screentime?
+However, how many modules can get your mind off code bugs during your screentime?
 
 Terminal-scape is about to be the **\#1** on the list!
 
