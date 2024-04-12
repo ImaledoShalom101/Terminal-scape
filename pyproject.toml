@@ -1,0 +1,22 @@
+[project]
+name = "terminal_game_MI0"
+version = "0.0.1"
+authors = [
+  { name="Imaledo David", email="shalomimaledo@gmail.com" },
+]
+description = "Terminal-scape is a terminal-based game that engages programmers or any command line user during leisure time."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/ImaledoShalom101/Terminal-scape"
+Issues = "https://github.com/ImaledoShalom101/Terminal-scape/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
